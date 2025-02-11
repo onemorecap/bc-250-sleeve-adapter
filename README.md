@@ -2,7 +2,7 @@
 
 A 3D-printed sleeve/adapter designed for the ASRock AMD BC-250 blade to connect it with a standard 120 mm fan, allowing it to be used outside of a rack for desktop, gaming, or other applications.
 
-The models are available in two versions, and designed to use with or without the [Mean Well LOP-300-12 PSU](https://www.meanwell-web.com/en-gb/ac-dc-low-profile-open-frame-power-supply-150-peak-lop--300--12).
+The models are designed to be used with [Mean Well LOP-300-12 PSU](https://www.meanwell-web.com/en-gb/ac-dc-low-profile-open-frame-power-supply-150-peak-lop--300--12). If you choose not to use the PSU, you can download and print a dummy connector instead.
 
 ### Version A
 
