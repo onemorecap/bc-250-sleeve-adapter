@@ -26,7 +26,8 @@ A visually appealing design that prints without supports.
   - `bc-250-fan-sleeve-adapter-b1.step` – Left part of the sleeve
   - `bc-250-fan-sleeve-adapter-b2.step` – Right part of the sleeve
 
-- `files/bc-250-body.step` – A general mockup of the BC-250 blade for reference.
+- `files/bc-250-body.step` – A general mockup of the BC-250 blade for reference
+- `files/lop-300-dummy-plate.step` – Dummy plate for connecting two halves if not using an LOP-300 PSU
 
 ## Printing Recommendations
 
